@@ -1,0 +1,10 @@
+# 忽略個人 IDE 設定檔
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+env/
+venv/
